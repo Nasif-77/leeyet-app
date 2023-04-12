@@ -1,0 +1,32 @@
+.main {
+
+    height: 100%;
+
+    .navbar {
+        position: sticky;
+        top: 0%;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 10px;
+        background-color: rgb(225, 225, 225);
+
+        h4 {
+            background-color: #c5d50f;
+            border-radius: 10px;
+            margin: 0%;
+            padding: 10px;
+        }
+    }
+}
+
+
+
+.form {
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
